@@ -10,7 +10,7 @@ namespace Cars.Models
         public int  MakeId { get; set; }
         
         public string Model { get; set; }
-
+        [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:yyyy}", ApplyFormatInEditMode = true)]
         public DateTime Year { get; set; }
         public int Cylinders { get; set; }
