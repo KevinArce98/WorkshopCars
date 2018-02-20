@@ -1,0 +1,10 @@
+C:\wamp64\www\Web2\Cars\bin\Debug\netcoreapp2.0\Cars.deps.json
+C:\wamp64\www\Web2\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.json
+C:\wamp64\www\Web2\Cars\bin\Debug\netcoreapp2.0\Cars.runtimeconfig.dev.json
+C:\wamp64\www\Web2\Cars\bin\Debug\netcoreapp2.0\Cars.dll
+C:\wamp64\www\Web2\Cars\bin\Debug\netcoreapp2.0\Cars.pdb
+C:\wamp64\www\Web2\Cars\obj\Debug\netcoreapp2.0\Cars.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Web2\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfoInputs.cache
+C:\wamp64\www\Web2\Cars\obj\Debug\netcoreapp2.0\Cars.AssemblyInfo.cs
+C:\wamp64\www\Web2\Cars\obj\Debug\netcoreapp2.0\Cars.dll
+C:\wamp64\www\Web2\Cars\obj\Debug\netcoreapp2.0\Cars.pdb
